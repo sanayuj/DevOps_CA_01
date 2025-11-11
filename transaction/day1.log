@@ -1,0 +1,16 @@
+TxnID,Amount,Type
+1,100,credit
+2,234,current
+3,345,saving
+4,3455,current
+5,789,saving
+6,4567,credit
+7,5688,saving
+8,569,current
+9,679,credit
+10,980,saving
+11,4565,current
+12,3456,credit
+14,4567,current
+15,6789,saving
+16,55677,saving
